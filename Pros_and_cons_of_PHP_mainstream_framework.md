@@ -1,11 +1,11 @@
 # PHP主流框架优缺点
-----
+
 ## 总评：
 各有特色,而且都是开源项目,不过框架针对的项目不一样，一般来说：
 1.小型项目：CodeIngiter
 2.中型项目：CakePHP、Zend Framework、Laravel、Thinkphp
 3.大型重量级项目：Yii、Symfony、Laravel
-----
+
 
 ## ThinkPHP
 
