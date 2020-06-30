@@ -296,3 +296,67 @@ zookeeper主要通过其znode数据版本来生成序列号，可以生成32位�
 **应用举例Mongdb objectID**
 
 MongoDB官方文档 ObjectID可以算作是和snowflake类似方法，通过“时间+机器码+pid+inc”共12个字节，通过4+3+2+3的方式最终标识成一个24长度的十六进制字符。
+
+
+# 
+
+## BI是什么？
+
+
+
+## BI的用户是谁？
+
+
+
+## BI有哪些模块
+
+
+
+## 设计BI需要注意什么？
+
+
+
+## 市面上知名的BI有哪些？
+
+
+
+# SQL
+
+## SQL注释
+
+1. --：表示单行注释
+2. /\*…*/：用于多行（块）注释
+
+## 学习资源
+
+* https://sqlzoo.net/
+* https://www.nowcoder.com/
+
+```sql
+select id,title,'usa' as country from movies --如果country这一列，可以通过这种方式来进行创建
+```
+
+``` sql
+SELECT ProductName, ROUND(UnitPrice,0) as UnitPrice FROM Products -- ROUND把数值字段舍入为指定的小数位数，后面的0，是0为小数位
+```
+
+
+
+## 逻辑运算符有:
+
+- NOT 或者 !
+- AND 或者 &&
+- OR 或者 ||
+- XOR（异或）
+
+
+
+
+
+# SaaS
+
+https://www.sohu.com/a/298369905_505790
+
+http://www.cniteyes.com/archives/35510
+
+
